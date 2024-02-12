@@ -1,0 +1,4 @@
+Studentul 22 cu numele Popescu Dan are urmatoarele note: 
+    poo cu 5 credite:       8 
+    paw cu 5 credite:       9 
+ Medie = 8.5

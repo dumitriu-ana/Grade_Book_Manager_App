@@ -1,0 +1,4 @@
+Studentul 30 cu numele Robert Mihai are urmatoarele note: 
+    poo cu 4 credite:       8 
+    java cu 5 credite:       9 
+ Medie = 8.555555

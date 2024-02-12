@@ -1,0 +1,4 @@
+Studentul 21 cu numele Matai Anca are urmatoarele note: 
+    poo cu 3 credite:       7 
+    bce cu 4 credite:       8 
+ Medie = 7.571429
