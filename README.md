@@ -1,5 +1,5 @@
 # Grade Book Manager App (Catalog pentru studenti)
-Proiectul "Student Grades Management System" este o aplicație Windows Forms dezvoltată în C# care permite utilizatorului să gestioneze un catalog pentru studenti. <br>
+Este o aplicație Windows Forms dezvoltată în C# care permite utilizatorului să gestioneze un catalog pentru studenti. <br>
 Aplicația oferă funcționalități pentru adăugarea și gestionarea studentilor, materiilor, creditelor, notelor și calcularea mediilor.
 Utilizatorul poate interacționa cu interfața intuitivă, adăugând, ștergând elevi, adăugând note și vizualizând rezultatele sub forma unui grafic. <br>
 Aplicația afișează în partea dreapta lista de studenti, impreuna cu notele, media si taxa pe care acesta trebuie sa o achite pentru materiile nepromovate. <br>
